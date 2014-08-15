@@ -28,7 +28,6 @@ const char CameraParameters::KEY_SUPPORTED_HDR_MODES[] = "supported-hdr-modes"; 
 const char CameraParameters::KEY_HDR_MODE[] = "hdr-mode"; \
 const char CameraParameters::HDR_MODE_OFF[] = "hdr-mode-off"; \
 const char CameraParameters::HDR_MODE_HDR[] = "hdr-mode-hdr";
-
 #define CAMERA_PARAMETERS_EXTRA_H \
     static const char KEY_SUPPORTED_BURST_NUM[]; \
     static const char KEY_BURST_NUM[]; \
